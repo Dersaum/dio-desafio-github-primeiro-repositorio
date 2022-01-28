@@ -24,5 +24,5 @@ Este comando adiciona os arquivos solicitados ao ambiente de stage, é uma forma
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
 [Primeiros passos Git](https://brorlandi.github.io/2017/03/12/Git-primeiros-passos/)<br>
 [Principais Comandos](https://www.digitalhouse.com/br/blog/principais-comandos-git)<br>
-[Comandos Git mais utilizados](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_clone)
-[Associando o GitHub no Visual Studio Code - Vídeo](https://www.youtube.com/watch?v=peGUkhXD3Vw&ab_channel=ProfessorWell)
+[Comandos Git mais utilizados](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_clone)<br>
+[Associando o GitHub no Visual Studio Code - Vídeo](https://www.youtube.com/watch?v=peGUkhXD3Vw&ab_channel=ProfessorWell)<br>
