@@ -22,6 +22,6 @@ Este comando adiciona os arquivos solicitados ao ambiente de stage, é uma forma
 
 [Download Git](https://git-scm.com/downloads)<br>
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
-[Primeiros passo Git](https://brorlandi.github.io/2017/03/12/Git-primeiros-passos/)<br>
+[Primeiros passos Git](https://brorlandi.github.io/2017/03/12/Git-primeiros-passos/)<br>
 [Principais Comandos](https://www.digitalhouse.com/br/blog/principais-comandos-git)<br>
 [Comandos Git mais utilizados](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_clone)
