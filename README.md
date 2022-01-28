@@ -1,4 +1,4 @@
-# Conhecimentos básicos sobre Git/GitHub
+# Comandos básicos de Git/GitHub
 
 ## git clone
 Comando para download do código-fonte existente de um repositório remoto.
