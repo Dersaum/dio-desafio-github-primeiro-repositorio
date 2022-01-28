@@ -12,7 +12,7 @@ Comando para download do código-fonte existente de um repositório remoto.
 ###### *-m é uma flag que aponta para a mensagem de descrição.*
 
 ## git add
-Este comando adiciona os arquivos solicitados ao ambiente de stage, é uma forma de dizer para o git que você deseja que as modificações daquele arquivo sejam gravadas na próxima remessa
+Este comando adiciona os arquivos solicitados ao ambiente de stage, é uma forma de dizer para o git que você deseja que as modificações daquele arquivo sejam gravadas na próxima remessa. O comando git add não altera o repositório e as alterações não são salvas até usarmos o git commit.
 > git add .
 
 
