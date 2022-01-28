@@ -5,5 +5,5 @@ Repositório criado para o Desafio de Projeto.
 
 ## Links Úteis
 
-[Download Git](https://git-scm.com/downloads)
+[Download Git](https://git-scm.com/downloads)<br>
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
