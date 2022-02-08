@@ -3,7 +3,7 @@
 ## cd
 O comando cd irá fazer com que você navegue da pasta atual para uma determinada pasta.
 > cd /c/users/<Windows-user-account>/
-###### *o caminho do diretório de usar / e não barra invertida*
+###### *o caminho do diretório deve usar / e não barra invertida*
 
 
 ## git clone
