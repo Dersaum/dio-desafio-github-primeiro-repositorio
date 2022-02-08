@@ -1,5 +1,11 @@
 # Comandos básicos de Git/GitHub
 
+## cd
+O comando cd irá fazer com que você navegue da pasta atual para uma determinada pasta.
+> cd /c/users/<Windows-user-account>/
+###### *o caminho do diretório de usar / e não \*
+
+
 ## git clone
 Comando para download do código-fonte existente de um repositório remoto.
 > git clone <https://url-do-link>
@@ -23,6 +29,7 @@ Este comando adiciona os arquivos solicitados ao ambiente de stage, é uma forma
 [Download Git](https://git-scm.com/downloads)<br>
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
 [Primeiros passos Git](https://brorlandi.github.io/2017/03/12/Git-primeiros-passos/)<br>
-[Principais Comandos](https://www.digitalhouse.com/br/blog/principais-comandos-git)<br>
+[Principais Comandos](https://www.dio.me/articles/principais-comandos-git-e-github)<br>
+[Principais Comandos(2)](https://www.digitalhouse.com/br/blog/principais-comandos-git)<br>
 [Comandos Git mais utilizados](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_clone)<br>
 [Associando o GitHub no Visual Studio Code - Vídeo](https://www.youtube.com/watch?v=peGUkhXD3Vw&ab_channel=ProfessorWell)<br>
